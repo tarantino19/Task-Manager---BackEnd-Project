@@ -1,6 +1,8 @@
 Hi,
-NOTE: Front-End was from John Smilga of Coding Addict. Code is publicly available to his students.
+
+NOTE: Front-End was from John Smilga of Coding Addict. 
 https://github.com/john-smilga
+Code is publicly available to his students.
 
 
 I worked on setting up the backend REST API (with testing via postman)& MongoDB -(MVC).
